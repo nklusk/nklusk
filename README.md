@@ -1,9 +1,9 @@
-### natalie lusk
-## bfa studio art; ba philo candidate @ florida state uni
+# natalie lusk
+### bfa studio art; ba philo candidate @ florida state uni
 
-###interested in
-## sculpture, video, installation, design
-## witchcraft, radial symmetry, digital crochet, plant life, colored light
+## interested in
+### sculpture, video, installation, design
+### witchcraft, radial symmetry, digital crochet, plant life, colored light
 
 <!--
 **nklusk/nklusk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
