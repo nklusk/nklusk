@@ -1,5 +1,5 @@
 # natalie lusk
-bfa studio art; ba philo candidate @ florida state uni
+bfa studio art; ba philosophy candidate @ florida state uni
 
 ## interested in
 sculpture, video, installation, design \
